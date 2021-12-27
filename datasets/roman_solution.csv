@@ -1,0 +1,67 @@
+name,full_name,birthplace,age,reign,cod,era
+AEMILIAN,caesar marcvs aemilivs aemilianvs avgvstvs,"Unknown, Africa",46,0,Assassination,Principate
+ANTONIUS PIUS,caesar titvs aelivs hadrianvs antoninvs avgvstvs pivs,"Lanuvium, Italia",75,23,Natural Causes,Principate
+AURELIAN,caesar lvcivs domitivs avrelianvs avgvstvs,"Sirmium, Pannonia",61,5,Assassination,Principate
+BALBINUS,caesar decimvs caelivs calvinvs balbinvs pivs avgvstvs,Unknown,60,0,Assassination,Principate
+CALIGULA,gaivs ivlivs caesar avgvstvs germanicvs,"Antitum, Italia",29,4,Assassination,Principate
+CARACALLA,caesar marcvs avrelivs severvs antoninvs pivs avgvstvs,"Lugdunum, Gallia Lugdunensis",29,19,Assassination,Principate
+CARINUS,caesar marcvs avrelivs carinvs avgvstvs,Unknown,Unknown,2,Died in Battle,Principate
+CARUS,caesar marcvs avrelivs carvs avgvstvs,"Narbo, Gallia Narbonensis",53,1,Natural Causes,Principate
+CLAUDIUS,tiberivs clavdivs caesar avgvstvs germanicvs,"Lugdunum, Gallia Lugdunensis",45,13,Assassination,Principate
+CLAUDIUS GOTHICUS,caesar marcvs avrelivs clavdivs avgvstvs,"Sirmium, Pannonia",57,2,Natural Causes,Principate
+COMMODUS,caesar marcvs avrelivs commodvs antoninvs avgvstvs,"Lanuvium, Italia",31,15,Assassination,Principate
+CONSANTIUS II,caesar flavivs ivlivs constantivs avgvstvs,"Sirmium, Pannonia",44,24,Natural Causes,Dominate
+CONSTANS,caesar flavivs ivlivs constans avgvstvs,"Unknown, Moesia",30,13,Assassination,Dominate
+CONSTANTINE II,caesar flavivs clavdivs constantinvs avgvstvs,"Arelate, Gallia Narbonensis",24,3,Execution,Dominate
+CONSTANTINE THE GREAT,caesar flavivs valerivs avrelivs constantinvs avgvstvs,"Naissus, Moesia Superior",65,31,Natural Causes,Dominate
+CONSTANTIUS I,caesar gaivs flavivs valerivs constantivs avgvstvs,"Dardania, Moesia",56,1,Natural Causes,Dominate
+DIDIUS JULIANUS,caesar marcvs didivs severvs ivlianvs avgvstvs,"Milan, Italia",60,0,Execution,Principate
+DIOCLETIAN,caesar gaivs avrelivs valerivs diocletianvs avgvstvs,"Salona, Dalmatian",67,21,Natural Causes,Dominate
+DOMITIAN,titvs flavivs caesar domitianvs avgvstvs,"Rome, Italia",45,15,Assassination,Principate
+ELAGABALUS,marcvs avrelivs antoninvs avgvstvs,"Emesa, Syria",19,4,Assassination,Principate
+FLORIAN,caesar marcvs annivs florianvs avgvstvs,Unknown,Unknown,0,Assassination,Principate
+GALBA,servivs svlpicivs galba caesar avgvstvs,"Terracina, Italia",67,1,Assassination,Principate
+GALERIUS,caesar galerivs valerivs maximianvs avgvstvs,"Romuliana, Moesia Superior",51,6,Natural Causes,Dominate
+GALLIENUS,caesar pvblivs licinivs egnativs gallienvs avgvstvs,Unknown,50,15,Assassination,Principate
+GETA,caesar pvblivs septimivs geta avgvstus,"Rome, Italia",22,2,Assassination,Principate
+GORDIAN I,caesar marcvs antonivs gordianvs sempronianvs africanvs avgvstvs,"Unknown, Phrygia",79,0,Suicide,Principate
+GORDIAN II,caesar marcvs antonivs gordianvs sempronianvs romanvs africanvs avgvstvs,Unknown,46,0,Execution,Principate
+GORDIAN III,caesar marcvs antonivs gordianvs avgvstvs,"Rome, Italia",19,6,Died in Battle,Principate
+GRATIAN,flavivs gratianvs avgvstvs,"Sirmium, Pannonia",24,16,Assassination,Dominate
+HADRIAN,caesar pvblivs aelivs traianvs hadrianvs avgvstvs,"Italica, Hispania Baetica",62,21,Natural Causes,Principate
+HOSTILIAN,caesar caivs valens hostilianvs messivs qvintvs avgvstvs,"Sirmium, Pannonia",21,0,Natural Causes,Principate
+JOVIAN,caesar flavivs iovianvs avgvstvs,"Singidunum, Moesia",33,1,Natural Causes,Dominate
+JULIAN,caesar flavivs clavdivs ivlianvs avgvstvs,"Constantinople, Thrace",32,3,Died in Battle,Dominate
+LUCINIUS I,caesar gaivs valerivs licinivs avgvstvs,"Felix Romuliana, Moesia Superior",75,16,Execution,Dominate
+LUCIUS VERUS,caesar lvcivs avrelivs vervs avgvstvs,"Rome, Italia",39,8,Natural Causes,Principate
+MACRINUS,marcvs opellivs severvs macrinvs avgvstvs pivs felix,"Iol Caesarea, Mauretania",53,1,Execution,Principate
+MARCUS AURELIUS,caesar marcvs avrelivs antoninvs avgvstvs,"Rome, Italia",59,19,Natural Causes,Principate
+MAXENTIUS,marcvs avrelivs valerivs maxentivs avgvstvs,Unknown,34,6,Execution,Dominate
+MAXIMIAN,caesar marcvs avrelivs valerivs maximianvs avgvstvs,"Sirmium, Pannonia",60,19,Suicide,Dominate
+MAXIMINUS I,caesar gaivs ivlivs vervs maximinvs avgvstvs,"Unknown, Thrace",65,3,Assassination,Principate
+MAXIMINUS II,caesar galerivs valerivs maximinvs avgvstvs,"Unknown, Dacia Aureliana",43,2,Execution,Dominate
+NERO,nero clavdivs caesar avgvstvs germanicvs,"Antitum, Italia",31,14,Suicide,Principate
+NERVA,marcvs cocceivs nerva caesar avgvstvs,"Narni, Italia",68,2,Natural Causes,Principate
+NUMERIAN,caesar marcvs avrelivs nvmerivs nvmerianvs avgvstvs,Unknown,Unknown,1,Other,Principate
+OTHO,marcvs salvivs otho caesar avgvstvs,"Terentinum, Italia",37,0,Suicide,Principate
+PERTINAX,caesar pvblivs helvivs pertinax avgvstvs,"Alba, Italia",67,0,Assassination,Principate
+PHILIP I,caesar marcvs ivlivs philippvs avgvstvs,"Shahba, Syria",45,5,Execution,Principate
+PROBUS,caesar marcvs avrelivs probvs avgvstvs,"Sirmium, Pannonia",50,6,Assassination,Principate
+PUPIENUS,caesar marcvs clodivs pvpienvs maximvs avgvstvs,Unknown,60,0,Assassination,Principate
+QUINTILLUS,caesar marcvs avrelivs clavdivs qvintillvs avgvstvs,"Sirmium, Pannonia",58,0,Other,Principate
+SEPTIMUS SEVERUS,caesar lvcivs septimivs severvs pertinax avgvstvs,"Leptis Magna, Libya",66,18,Natural Causes,Principate
+SEVERUS ALEXANDER,caesar marcvs avrelivs severvs alexander avgvstvs,"Arca Caesarea, Syria",27,13,Assassination,Principate
+SEVERUS II,flavivs valerivs severvs avgvstvs,Unknown,Unknown,2,Assassination,Dominate
+TACITUS,caesar marcvs clavdivs tacitvs avgvstvs,"Interamna Nahars, Italia",76,1,Natural Causes,Principate
+THEODOSIUS I,flavivs theodosivs avgvstvs,"Cauca, Hispania",48,16,Natural Causes,Dominate
+TITUS,titvs flavivs caesar vespasianvs avgvstvs,"Rome, Italia",42,2,Natural Causes,Principate
+TRAJAN,caesar marcvs vlpivs nerva traianvs avgvstvs,"Italica, Hispania Baetica",64,19,Natural Causes,Principate
+TRAJAN DECIUS,caesar gaivs messivs qvintvs traianvs decivs avgvstvs,"Budalia, Pannonia Inferior",50,2,Died in Battle,Principate
+TREBONIANUS GALLUS,caesar gaivs vibivs trebonianvs gallvs avgvstvs,"Unknown, Italia",47,2,Assassination,Principate
+VALENS,flavivs ivlivs valens avgvstvs,"Cibalae, Pannonia",50,14,Died in Battle,Dominate
+VALENTINIAN I,flavivs valentinianvs avgvstvs,"Cibalae, Pannonia",54,11,Natural Causes,Dominate
+VALENTINIAN II,flavivs valentinianvs invictvs avgvstvs,"Milan, Italia",21,17,Suicide,Dominate
+VALERIAN,caesar pvblivs licinivs valerianvs avgvstvs,Unknown,69,7,Other,Principate
+VESPASIAN,titvs flavivs caesar vespasianvs avgvstvs,"Falacrine, Italia",70,10,Natural Causes,Principate
+VETRANIO,caesar flavivs vetranio avgvstvs,"Unknown, Moesia",Unknown,0,Other,Dominate
+VITELLIUS,avlvs vitellivs germanicvs avgvstvs,"Rome, Italia",54,0,Assassination,Principate
