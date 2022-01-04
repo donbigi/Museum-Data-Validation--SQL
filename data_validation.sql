@@ -1,6 +1,6 @@
 -- Museum Exhibition Data Validation
--- Uploading CSV file to PostgreeSQL
 
+-- Uploading CSV file to PostgreeSQL
 DROP TABLE IF EXISTS "emperors";
 
 -- Creating table to store CSV file
