@@ -1,5 +1,5 @@
-## Museum Exhibition Data Validation
 ## Solution code is contained in data_validation.sql
+## Museum Exhibition Data Validation
 <p>You are working with a local museum. The museum is about to launch a new interactive application on Roman emperors and your job is to prepare the data that it will display.</p>
 <p>The museum’s database has a table, named <code>emperors</code>, with basic information on all emperors who ruled from 1 AD onwards. You will need to clean the data before the app can launch.</p>
 <p>Your query will need to return a table that contains the following columns (with the given alias) and meets the specified requirements. You will use the data contained in the <code>emperors</code> table.</p>
