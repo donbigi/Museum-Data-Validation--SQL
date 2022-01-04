@@ -30,7 +30,7 @@ SELECT DISTINCT(UPPER(name)) AS name, -- Makes name uppercase
 		CASE WHEN birth_city IS NULL AND birth_province IS NULL THEN 'Unknown'
 			 WHEN birth_city IS NULL OR birth_province IS NULL THEN CONCAT(birth_city, birth_province)
 			 ELSE CONCAT(birth_city, ', ', birth_province)
-			 END AS birthplace, -- Generates birthplace from joining birth_city column and birth_province column
+			 END AS birthplace, -- Generates birthplace by joining birth_city column and birth_province column
 		CASE WHEN death IS NULL OR birth IS NULL THEN 'Unknown'
 			 ELSE CAST (EXTRACT(YEAR FROM CAST(death AS timestamp without time zone))
 						- EXTRACT(YEAR FROM CAST(birth AS timestamp without time zone)) AS TEXT)
